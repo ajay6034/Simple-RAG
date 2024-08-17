@@ -1,0 +1,8 @@
+langchain_community
+dotenv
+langchain_openai
+lanchain_core
+streamlit
+bs4
+os
+
