@@ -5,7 +5,7 @@ Text file, PDF file, Web base Format Data Used In this Project
 ## Objective:
 The project aims to build a system that can retrieve relevant documents and generate answers based on those documents. This is typically done by combining a vector database for document retrieval and an LLM (Large Language Model) like OpenAI's GPT for generating responses.
 
-## Implementation Expliantion
+## Implementation Explination
 1.Document Ingestion:
 The notebook begins by loading documents, which are presumably text files or other formats. These documents are processed and transformed into embeddings (vector representations) that can be efficiently searched.
 
